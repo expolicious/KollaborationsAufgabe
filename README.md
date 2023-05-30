@@ -1,3 +1,3 @@
 # KollaborationsAufgabe
 
-hai, ich habe eidt gemacht
+hai, ich habe edit gemacht
